@@ -22,6 +22,8 @@ class Airplane:
     def __gt__(self, other):
         return self.quantity > other.quantity
 
+print(111)
+
 a1 = Airplane("Ty-134", 180)
 a2 = Airplane("Ty-154", 280)
 
