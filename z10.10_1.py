@@ -74,4 +74,4 @@ print(c1)
 print("Уменьшаем радиус на 8")
 c1 -= 8
 print(c1)
-
+print(c2)
